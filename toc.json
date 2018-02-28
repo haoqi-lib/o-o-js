@@ -1,0 +1,18 @@
+[
+  {
+    "episodeId": "001-basics",
+    "title": "JS 对象基础"
+  },
+  {
+    "episodeId": "002-oo",
+    "title": "JS 面向对象编程"
+  },
+  {
+    "episodeId": "003-this",
+    "title": "绑定 this 的三种方法"
+  },
+  {
+    "episodeId": "004-es6",
+    "title": "ES6 时代的面向对象编程"
+  }
+]
